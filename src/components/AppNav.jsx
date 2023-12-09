@@ -15,5 +15,5 @@ const AppNav = () => {
     </nav>
   );
 };
-
+ 
 export default AppNav;
