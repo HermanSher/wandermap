@@ -35,6 +35,162 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T10:41:25.455Z",
+      "notes": "Always stays in my hear",
+      "position": {
+        "lat": "25.60662287668065",
+        "lng": "85.13868648201739"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "17.364047824378932",
+        "lng": "78.47673256436255"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Siddipet",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "18.09325360609685",
+        "lng": "78.88291789839161"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bidar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "17.842044640618",
+        "lng": "77.50907003256475"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Nizamabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "18.676930081606706",
+        "lng": "78.11369998053605"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Nalgonda",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "17.034672311589716",
+        "lng": "79.27836170512128"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Mahbubnagar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "16.761670465880425",
+        "lng": "78.0144624615715"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Tadepallegudem",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "16.793294947978872",
+        "lng": "81.50903648841427"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Machilipatnam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "16.17159497595411",
+        "lng": "81.13475246465143"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Visakhapatnam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "17.71690687549654",
+        "lng": "83.29954981618229"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Natore",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2023-12-10T11:29:23.562Z",
+      "notes": "",
+      "position": {
+        "lat": "24.412478348676828",
+        "lng": "88.98456485225314"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Serpa",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-12-10T13:32:28.367Z",
+      "notes": "",
+      "position": {
+        "lat": "37.92628270244913",
+        "lng": "-7.60201033102252"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Al Ḩillah",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2023-12-10T13:42:22.838Z",
+      "notes": "dddd",
+      "position": {
+        "lat": "32.4812115706257",
+        "lng": "44.43081703980264"
+      },
+      "id": 98443210
     }
   ]
 }
